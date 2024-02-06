@@ -2,7 +2,7 @@
 using FinanceApi.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FinanceApi.Controller
+namespace FinanceApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
