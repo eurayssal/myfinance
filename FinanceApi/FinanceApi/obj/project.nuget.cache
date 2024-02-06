@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yz2EbwHvrLIWJk8WYfQTNuPxcY8By5Ng6Zly+ff7Es+CNlzOVswGeZbxfTwBARHmITkEHtzarg/m2CGDzN/7yg==",
+  "dgSpecHash": "koap2W3kGnocRJcudfsOzbe+GxYOBiDKlym7qIpPYy3QpGpjZRNFoZyT5uzSL9a34sxQMYuIzscWFGnQDJQ/JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\Finance1\\FinanceApi\\FinanceApi\\FinanceApi.csproj",
+  "projectFilePath": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\myfinance\\FinanceApi\\FinanceApi\\FinanceApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rayssa.magalhaes\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\rayssa.magalhaes\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1243,11 +1243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\Finance1\\FinanceApi\\FinanceApi\\FinanceApi.csproj",
+      "projectUniqueName": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\myfinance\\FinanceApi\\FinanceApi\\FinanceApi.csproj",
       "projectName": "FinanceApi",
-      "projectPath": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\Finance1\\FinanceApi\\FinanceApi\\FinanceApi.csproj",
+      "projectPath": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\myfinance\\FinanceApi\\FinanceApi\\FinanceApi.csproj",
       "packagesPath": "C:\\Users\\rayssa.magalhaes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\Finance1\\FinanceApi\\FinanceApi\\obj\\",
+      "outputPath": "C:\\Users\\rayssa.magalhaes\\Documents\\GitHub\\myfinance\\FinanceApi\\FinanceApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rayssa.magalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
